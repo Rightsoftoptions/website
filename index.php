@@ -415,7 +415,7 @@ We dream to be known as a socially committed organization that contributes to be
                      </div>
                    </div>
                  </div>
-                                      <div class="single-portfolio mix photography">
+                                      <!--<div class="single-portfolio mix photography">
                    <div class="single-item">
                        <img src="assets/images/ANU PHOTO.jpg'" alt="img" style="border-radius:25px;">
                      <div class="single-item-content">
@@ -442,7 +442,7 @@ We dream to be known as a socially committed organization that contributes to be
                         </div>
                      </div>
                    </div>
-                 </div>
+                 </div>-->
                                       <div class="single-portfolio mix photography">
                    <div class="single-item">
                        <img src="assets/images/image01.jpg" alt="img" style="border-radius:25px;">
@@ -556,7 +556,7 @@ We dream to be known as a socially committed organization that contributes to be
                      </div>
                    </div>
                  </div>
-                 <div class="single-portfolio mix photography">
+                 <!--<div class="single-portfolio mix photography">
                    <div class="single-item">
                        <img src="assets/images/aswin.jpeg'" alt="img" style="border-radius:25px;">
                      <div class="single-item-content">
@@ -583,7 +583,7 @@ We dream to be known as a socially committed organization that contributes to be
                         </div>
                      </div>
                    </div>
-                 </div>
+                 </div>-->
 
                   <div class="single-portfolio mix photography">
                    <div class="single-item">
@@ -641,7 +641,7 @@ We dream to be known as a socially committed organization that contributes to be
                      </div>
                    </div>
                  </div>
-                   <div class="single-portfolio mix photography">
+                   <!--<div class="single-portfolio mix photography">
                    <div class="single-item">
                        <img src="assets/images/ashmitha t a.jpeg" alt="img" style="border-radius:25px;">
                      <div class="single-item-content">
@@ -654,7 +654,7 @@ We dream to be known as a socially committed organization that contributes to be
                         </div>
                      </div>
                    </div>
-                 </div>
+                 </div>-->
                    <div class="single-portfolio mix photography">
                    <div class="single-item">
                        <img src="assets/images/anoop.jpeg" alt="img" style="border-radius:25px;">
